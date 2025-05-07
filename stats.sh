@@ -1,7 +1,7 @@
 #!/bin/bash
 ##Cardano Node Block Stats (for Guild Operators environments)
 ##Data is gathered from mostly local data, using Guild Operators scripts (cncli/cardano-cli/koios)
-##This is quite inneficcient. You should probably not use this, but write your own using less queries and arrays. I am not a dev.
+##This is quite inneficcient. You should probably not use this, but write your own using less queries, and arrays. I am not a dev.
 ##Gus
 
 BLOCKLOG_DB="/opt/cardano/cnode/guild-db/blocklog/blocklog.db"
