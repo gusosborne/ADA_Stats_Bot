@@ -17,8 +17,8 @@ GUILD_ID = MY_GUILD_ID  # Replace with your Discord server's guild ID
 
 # Mapping of channel ID to bash command
 CHANNEL_COMMANDS = {
-    CHANNEL_ID1: "/bin/bash stats.sh|head -n2|tail -1",
-    CHANNEL_ID2: "/bin/bash stats.sh|head -n3|tail -1",
+    CHANNEL_ID1: "/bin/bash stats.sh|head -n2|tail -1",  #Channel_IDnum:Command to run (output is new channel name)
+    CHANNEL_ID2: "/bin/bash stats.sh|head -n3|tail -1",  #add as many as you like
     CHANNEL_ID3: "/bin/bash stats.sh|head -n4|tail -1",
     CHANNEL_ID4: "/bin/bash stats.sh|head -n6|tail -1",
     CHANNEL_ID5: "/bin/bash stats.sh|head -n5|tail -1",
