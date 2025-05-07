@@ -2,7 +2,6 @@
 <head>
   <meta content="text/html; charset=ISO-8859-1"
  http-equiv="content-type">
-  <title></title>
 </head>
 <body>
 # ADA_Stats_Bot<br>
