@@ -31,3 +31,4 @@ Then run: python3 bot.py (Ctrl a+d to detach)<br>
 &nbsp; ..or run: screen -dmS adabot python3 bot.py<br>
 </body>
 </html>
+![ADABot-Stats](https://github.com/user-attachments/assets/8be07401-a13b-430a-ae20-f9ecd24eeed1)
